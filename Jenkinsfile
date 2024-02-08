@@ -1,3 +1,3 @@
-Checkout
+Checkout()
 Build()
-Deploy
+Deploy()
