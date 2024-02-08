@@ -1,3 +1,3 @@
 void call(){
-    println "Java: Checkout()"
+    println "Checkout()"
 }
