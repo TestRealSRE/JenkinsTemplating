@@ -1,5 +1,4 @@
 libraries{
-  @merge Java
-  @merge NodeJS
+  @merge=true
   Git
 }
