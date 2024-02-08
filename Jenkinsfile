@@ -1,4 +1,3 @@
-sh 'echo Hi'
 Checkout
-Build
+Build()
 Deploy
