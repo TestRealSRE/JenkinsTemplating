@@ -1,3 +1,4 @@
-libraries{ 
+libraries{
+  @merge Git
   Java
 }
